@@ -1,0 +1,9 @@
+div {
+
+	border: 5px solid purple;
+}
+
+#third>p, h1, #second #fifth{
+ 	visibility: hidden;
+}
+
