@@ -1,0 +1,11 @@
+.pic_box{
+    border: 3px solid black;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: lightpink;
+    box-shadow: 3px 7px #888888;
+}
+
+figure{
+   margin: 0;
+}

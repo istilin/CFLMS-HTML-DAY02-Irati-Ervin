@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+article,
+section{
+   padding: 30px;
+   width: 50%;
+   position: relative;
+}
+
+aside{
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    left: 800px;
+}

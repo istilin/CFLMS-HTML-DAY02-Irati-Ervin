@@ -1,0 +1,9 @@
+.main_txt > h2{
+    color: chocolate;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.main_txt > p{
+   text-align: justify;
+}

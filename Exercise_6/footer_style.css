@@ -1,0 +1,10 @@
+#main_footer{
+    text-align: center;
+    padding: 40px;
+    border-top: 3px double black;
+    background-color: brown;
+}
+
+a{
+    color: white;
+}
